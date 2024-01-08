@@ -87,7 +87,7 @@ npm start server
 
 Open your web browser and go to http://localhost:7500
 
-### Usage
+### Usage ###
 To use the Veterinary Appointment Booking System, follow these steps:
 
 1. Open your web browser and go to http://localhost:7500
