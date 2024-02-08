@@ -63,7 +63,7 @@ userRouter.post("/login", async (req, res) => {
       } else {
         res.send(JSON.stringify("Wrong Credentials"));
       }
-      //sdadasdasdas
+      
     });
   } else {
     res.send(JSON.stringify("Wrong Credentials"));
